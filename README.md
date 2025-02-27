@@ -6,10 +6,15 @@ This project analyzes a used-car dataset to determine which features have the gr
 
 CarPriceAnalysis/
 ├── data/
+
 │ └── car_price_dataset.csv # The dataset (if included)
+
 ├── CarPrice_Analysis.ipynb # Jupyter Notebook with end-to-end analysis
+
 ├── requirements.txt # List of dependencies
+
 ├── .gitignore # Files/folders to ignore (e.g., venv/, .ipynb_checkpoints)
+
 └── README.md # This file
 
 1. **data/** – Contains the CSV file with car price data
